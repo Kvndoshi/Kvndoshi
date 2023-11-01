@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Doshi</h1>
-<h3 align="center">A AI/ML Engineer from India</h3>
+<h3 align="center">An AI/ML Engineer from India</h3>
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 
