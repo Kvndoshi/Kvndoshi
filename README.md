@@ -22,28 +22,28 @@
 Brief summaries pulled from my resume; more details and screenshots coming soon.
 
 - [AutoML](https://github.com/Kvndoshi/AutoML) — Streamlit app to upload data, transform, and auto‑train ML models, surfacing the best one.
-- [Kvndoshi](https://github.com/Kvndoshi) — Config files for my GitHub profile.
+- [Assignment-Solver](https://github.com/Kvndoshi/Assignment-Solver) — Snips screen and generates answers with GPT API via a full interface.
+- [AirDrums](https://github.com/Kvndoshi/AirDrums) — Camera‑based virtual drumming using motion cues.
+- [Gesture-Recognition](https://github.com/Kvndoshi/Gesture-Recognition) — Recognizes hand/body gestures from video.
+- [recommendation-systems](https://github.com/Kvndoshi/recommendation-systems) — Book/movie recommenders built on user preferences.
+- [lip-reading](https://github.com/Kvndoshi/lip-reading) — Model to infer spoken words from lip movements.
+
+<!-- Additional projects (roughly by difficulty/ML focus) -->
+- [semantic-segmentation](https://github.com/Kvndoshi/semantic-segmentation) — Deep learning pipelines for pixel‑wise classification.
+- [Facial-emotion-Detection](https://github.com/Kvndoshi/Facial-emotion-Detection) — Detects facial emotions in real‑time with TensorFlow/OpenCV.
+- [Image-Captioning](https://github.com/Kvndoshi/Image-Captioning) — Model that generates captions for images end‑to‑end.
 - [ESP-cam-person-detection](https://github.com/Kvndoshi/ESP-cam-person-detection) — TinyML person detection on ESP32‑CAM.
-- [calculator](https://github.com/Kvndoshi/calculator) — Simple Python calculator app.
-- [speed-typing-test](https://github.com/Kvndoshi/speed-typing-test) — Measures typing speed and accuracy.
-- [Minesweeper](https://github.com/Kvndoshi/Minesweeper) — Playable Python implementation of the classic game.
+- [Screen-snip-content-extractor](https://github.com/Kvndoshi/Screen-snip-content-extractor) — Snip screen areas and extract/answer content using GPT.
+- [Sentiment-Analysis](https://github.com/Kvndoshi/Sentiment-Analysis) — Flask app to classify text sentiment live.
+- [Virtual-Keyboard](https://github.com/Kvndoshi/Virtual-Keyboard) — OpenCV‑based typing interface using a camera.
 - [Sudoku-Solver](https://github.com/Kvndoshi/Sudoku-Solver) — Solves Sudoku using a logical elimination (lament) method, not brute force.
 - [Home-Automation](https://github.com/Kvndoshi/Home-Automation) — IoT system using ESP to control devices remotely.
 - [Inshorts-clone](https://github.com/Kvndoshi/Inshorts-clone) — Python‑based short‑news feed clone for quick reads.
-- [Image-Captioning](https://github.com/Kvndoshi/Image-Captioning) — Model that generates captions for images end‑to‑end.
-- [Virtual-Keyboard](https://github.com/Kvndoshi/Virtual-Keyboard) — OpenCV‑based typing interface using a camera.
-- [AirDrums](https://github.com/Kvndoshi/AirDrums) — Camera‑based virtual drumming using motion cues.
-- [Sentiment-Analysis](https://github.com/Kvndoshi/Sentiment-Analysis) — Flask app to classify text sentiment live.
-- [Facial-emotion-Detection](https://github.com/Kvndoshi/Facial-emotion-Detection) — Detects facial emotions in real‑time with TensorFlow/OpenCV.
-- [Task-Automation](https://github.com/Kvndoshi/Task-Automation) — Automates routine tasks; includes browser workflows via GPT API.
-- [Screen-snip-content-extractor](https://github.com/Kvndoshi/Screen-snip-content-extractor) — Snip screen areas and extract/answer content using GPT.
-- [Assignment-Solver](https://github.com/Kvndoshi/Assignment-Solver) — Snips screen and generates answers with GPT API via a full interface.
+- [speed-typing-test](https://github.com/Kvndoshi/speed-typing-test) — Measures typing speed and accuracy.
+- [Minesweeper](https://github.com/Kvndoshi/Minesweeper) — Playable Python implementation of the classic game.
+- [calculator](https://github.com/Kvndoshi/calculator) — Simple Python calculator app.
 - [Atm-machine](https://github.com/Kvndoshi/Atm-machine) — Functional Tkinter ATM simulation with account operations.
 - [viruses](https://github.com/Kvndoshi/viruses) — Educational scripts demonstrating effects of malware (sandbox only).
-- [recommendation-systems](https://github.com/Kvndoshi/recommendation-systems) — Book/movie recommenders built on user preferences.
-- [semantic-segmentation](https://github.com/Kvndoshi/semantic-segmentation) — Deep learning pipelines for pixel‑wise classification.
-- [Gesture-Recognition](https://github.com/Kvndoshi/Gesture-Recognition) — Recognizes hand/body gestures from video.
-- [lip-reading](https://github.com/Kvndoshi/lip-reading) — Model to infer spoken words from lip movements.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
