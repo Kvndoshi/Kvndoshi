@@ -19,8 +19,6 @@
 
 ## Featured repositories
 
-Brief summaries pulled from my resume; more details and screenshots coming soon.
-
 - [AutoML](https://github.com/Kvndoshi/AutoML) — Streamlit app to upload data, transform, and auto‑train ML models, surfacing the best one.
 - [Assignment-Solver](https://github.com/Kvndoshi/Assignment-Solver) — Snips screen and generates answers with GPT API via a full interface.
 - [AirDrums](https://github.com/Kvndoshi/AirDrums) — Camera‑based virtual drumming using motion cues.
