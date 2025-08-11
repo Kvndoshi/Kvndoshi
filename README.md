@@ -1,11 +1,37 @@
 <h1 align="center">Hi 👋, I'm Kevin Doshi</h1>
 <h3 align="center">An AI/ML Engineer from India</h3>
 
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🌱 Currently exploring **Reinforcement Learning** and building my own **chatbot**
 
 - 💬 Ask me about **AI,ML**
 
 - 📫 How to reach me **kevindoshi17@gmail.com**
+
+## Featured repositories
+
+- [AutoML](https://github.com/Kvndoshi/AutoML)
+- [Kvndoshi](https://github.com/Kvndoshi) — Config files for my GitHub profile.
+- [ESP-cam-person-detection](https://github.com/Kvndoshi/ESP-cam-person-detection)
+- [calculator](https://github.com/Kvndoshi/calculator)
+- [speed-typing-test](https://github.com/Kvndoshi/speed-typing-test)
+- [Minesweeper](https://github.com/Kvndoshi/Minesweeper)
+- [Sudoku-Solver](https://github.com/Kvndoshi/Sudoku-Solver)
+- [Home-Automation](https://github.com/Kvndoshi/Home-Automation)
+- [Inshorts-clone](https://github.com/Kvndoshi/Inshorts-clone)
+- [Image-Captioning](https://github.com/Kvndoshi/Image-Captioning)
+- [Virtual-Keyboard](https://github.com/Kvndoshi/Virtual-Keyboard)
+- [AirDrums](https://github.com/Kvndoshi/AirDrums)
+- [Sentiment-Analysis](https://github.com/Kvndoshi/Sentiment-Analysis)
+- [Facial-emotion-Detection](https://github.com/Kvndoshi/Facial-emotion-Detection)
+- [Task-Automation](https://github.com/Kvndoshi/Task-Automation)
+- [Screen-snip-content-extractor](https://github.com/Kvndoshi/Screen-snip-content-extractor)
+- [Assignment-Solver](https://github.com/Kvndoshi/Assignment-Solver)
+- [Atm-machine](https://github.com/Kvndoshi/Atm-machine)
+- [viruses](https://github.com/Kvndoshi/viruses)
+- [recommendation-systems](https://github.com/Kvndoshi/recommendation-systems)
+- [semantic-segmentation](https://github.com/Kvndoshi/semantic-segmentation)
+- [Gesture-Recognition](https://github.com/Kvndoshi/Gesture-Recognition)
+- [lip-reading](https://github.com/Kvndoshi/lip-reading)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
