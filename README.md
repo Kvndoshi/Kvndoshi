@@ -19,31 +19,31 @@
 
 ## Featured repositories
 
-Short one‑liners per project will be added (pulling from my resume) as I continue to update.
+Brief summaries pulled from my resume; more details and screenshots coming soon.
 
-- [AutoML](https://github.com/Kvndoshi/AutoML)
+- [AutoML](https://github.com/Kvndoshi/AutoML) — Streamlit app to upload data, transform, and auto‑train ML models, surfacing the best one.
 - [Kvndoshi](https://github.com/Kvndoshi) — Config files for my GitHub profile.
-- [ESP-cam-person-detection](https://github.com/Kvndoshi/ESP-cam-person-detection)
-- [calculator](https://github.com/Kvndoshi/calculator)
-- [speed-typing-test](https://github.com/Kvndoshi/speed-typing-test)
-- [Minesweeper](https://github.com/Kvndoshi/Minesweeper)
-- [Sudoku-Solver](https://github.com/Kvndoshi/Sudoku-Solver)
-- [Home-Automation](https://github.com/Kvndoshi/Home-Automation)
-- [Inshorts-clone](https://github.com/Kvndoshi/Inshorts-clone)
-- [Image-Captioning](https://github.com/Kvndoshi/Image-Captioning)
-- [Virtual-Keyboard](https://github.com/Kvndoshi/Virtual-Keyboard)
-- [AirDrums](https://github.com/Kvndoshi/AirDrums)
-- [Sentiment-Analysis](https://github.com/Kvndoshi/Sentiment-Analysis)
-- [Facial-emotion-Detection](https://github.com/Kvndoshi/Facial-emotion-Detection)
-- [Task-Automation](https://github.com/Kvndoshi/Task-Automation)
-- [Screen-snip-content-extractor](https://github.com/Kvndoshi/Screen-snip-content-extractor)
-- [Assignment-Solver](https://github.com/Kvndoshi/Assignment-Solver)
-- [Atm-machine](https://github.com/Kvndoshi/Atm-machine)
-- [viruses](https://github.com/Kvndoshi/viruses)
-- [recommendation-systems](https://github.com/Kvndoshi/recommendation-systems)
-- [semantic-segmentation](https://github.com/Kvndoshi/semantic-segmentation)
-- [Gesture-Recognition](https://github.com/Kvndoshi/Gesture-Recognition)
-- [lip-reading](https://github.com/Kvndoshi/lip-reading)
+- [ESP-cam-person-detection](https://github.com/Kvndoshi/ESP-cam-person-detection) — TinyML person detection on ESP32‑CAM.
+- [calculator](https://github.com/Kvndoshi/calculator) — Simple Python calculator app.
+- [speed-typing-test](https://github.com/Kvndoshi/speed-typing-test) — Measures typing speed and accuracy.
+- [Minesweeper](https://github.com/Kvndoshi/Minesweeper) — Playable Python implementation of the classic game.
+- [Sudoku-Solver](https://github.com/Kvndoshi/Sudoku-Solver) — Solves Sudoku using a logical elimination (lament) method, not brute force.
+- [Home-Automation](https://github.com/Kvndoshi/Home-Automation) — IoT system using ESP to control devices remotely.
+- [Inshorts-clone](https://github.com/Kvndoshi/Inshorts-clone) — Python‑based short‑news feed clone for quick reads.
+- [Image-Captioning](https://github.com/Kvndoshi/Image-Captioning) — Model that generates captions for images end‑to‑end.
+- [Virtual-Keyboard](https://github.com/Kvndoshi/Virtual-Keyboard) — OpenCV‑based typing interface using a camera.
+- [AirDrums](https://github.com/Kvndoshi/AirDrums) — Camera‑based virtual drumming using motion cues.
+- [Sentiment-Analysis](https://github.com/Kvndoshi/Sentiment-Analysis) — Flask app to classify text sentiment live.
+- [Facial-emotion-Detection](https://github.com/Kvndoshi/Facial-emotion-Detection) — Detects facial emotions in real‑time with TensorFlow/OpenCV.
+- [Task-Automation](https://github.com/Kvndoshi/Task-Automation) — Automates routine tasks; includes browser workflows via GPT API.
+- [Screen-snip-content-extractor](https://github.com/Kvndoshi/Screen-snip-content-extractor) — Snip screen areas and extract/answer content using GPT.
+- [Assignment-Solver](https://github.com/Kvndoshi/Assignment-Solver) — Snips screen and generates answers with GPT API via a full interface.
+- [Atm-machine](https://github.com/Kvndoshi/Atm-machine) — Functional Tkinter ATM simulation with account operations.
+- [viruses](https://github.com/Kvndoshi/viruses) — Educational scripts demonstrating effects of malware (sandbox only).
+- [recommendation-systems](https://github.com/Kvndoshi/recommendation-systems) — Book/movie recommenders built on user preferences.
+- [semantic-segmentation](https://github.com/Kvndoshi/semantic-segmentation) — Deep learning pipelines for pixel‑wise classification.
+- [Gesture-Recognition](https://github.com/Kvndoshi/Gesture-Recognition) — Recognizes hand/body gestures from video.
+- [lip-reading](https://github.com/Kvndoshi/lip-reading) — Model to infer spoken words from lip movements.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
