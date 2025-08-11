@@ -13,11 +13,13 @@
 
 ## What I do
 
-- Design end‑to‑end ML workflows: data ingestion ➜ profiling ➜ feature ops ➜ model selection ➜ export
-- Build fast product‑like prototypes in Streamlit/Flask for hands‑on ML UX
-- Ship practical CV/OCR pipelines with OpenCV + Tesseract; experiment with RL and LLM tooling
+- Build innovative solutions and practical AI applications that solve real problems
+- Focus on backend/software for ML systems (data, modeling, orchestration); light UI, pragmatic deployment
+- Also work with IoT: Arduino, ESP32/ESP8266, and IMU sensors; integrate devices with Python/CV pipelines
 
 ## Featured repositories
+
+Short one‑liners per project will be added (pulling from my resume) as I continue to update.
 
 - [AutoML](https://github.com/Kvndoshi/AutoML)
 - [Kvndoshi](https://github.com/Kvndoshi) — Config files for my GitHub profile.
